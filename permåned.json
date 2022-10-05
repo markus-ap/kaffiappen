@@ -1,0 +1,472 @@
+[
+    [
+        "2021-11",
+        {
+            "total": 89,
+            "work": 74,
+            "cafe": 5,
+            "ingunn": 2,
+            "visit": 1,
+            "living room": 3,
+            "office": 4
+        }
+    ],
+    [
+        "2022-09",
+        {
+            "total": 79,
+            "work": 36,
+            "bus": 1,
+            "ferry": 1,
+            "hotel": 30,
+            "ikea": 1,
+            "living room": 2,
+            "cafe": 2,
+            "konferanse": 6
+        }
+    ],
+    [
+        "2021-12",
+        {
+            "total": 72,
+            "work": 9,
+            "ingunn": 4,
+            "office": 33,
+            "living room": 3,
+            "visit": 22,
+            "cafe": 1
+        }
+    ],
+    [
+        "2021-10",
+        {
+            "total": 63,
+            "work": 56,
+            "visit": 3,
+            "living room": 2,
+            "cafe": 2
+        }
+    ],
+    [
+        "2019-11",
+        {
+            "total": 62,
+            "cinema": 5,
+            "diner": 3,
+            "home": 25,
+            "visit": 8,
+            "school": 21
+        }
+    ],
+    [
+        "2021-08",
+        {
+            "total": 60,
+            "office": 2,
+            "living room": 17,
+            "dim living room": 1,
+            "work": 34,
+            "visit": 5,
+            "cafe": 1
+        }
+    ],
+    [
+        "2022-04",
+        {
+            "total": 60,
+            "work": 44,
+            "living room": 3,
+            "arthur ' s": 1,
+            "visit": 8,
+            "cafe": 1,
+            "office": 3
+        }
+    ],
+    [
+        "2022-08",
+        {
+            "total": 57,
+            "cabin": 3,
+            "cafe": 1,
+            "work": 47,
+            "visit": 5,
+            "hotel": 1
+        }
+    ],
+    [
+        "2022-03",
+        {
+            "total": 55,
+            "office": 2,
+            "living room": 1,
+            "work": 41,
+            "cafe": 3,
+            "visit": 8
+        }
+    ],
+    [
+        "2019-10",
+        {
+            "total": 53,
+            "school": 22,
+            "visit": 3,
+            "home": 20,
+            "diner": 7,
+            "radio": 1
+        }
+    ],
+    [
+        "2022-05",
+        {
+            "total": 53,
+            "work": 40,
+            "cafe": 4,
+            "living room": 3,
+            "office": 3,
+            "hotel": 3
+        }
+    ],
+    [
+        "2019-04",
+        {
+            "total": 49,
+            "work": 15,
+            "visit": 4,
+            "diner": 17,
+            "home": 13
+        }
+    ],
+    [
+        "2020-02",
+        {
+            "total": 49,
+            "home": 17,
+            "diner": 3,
+            "school": 28,
+            "cinema": 1
+        }
+    ],
+    [
+        "2022-06",
+        {
+            "total": 48,
+            "work": 25,
+            "living room": 4,
+            "terrace": 1,
+            "visit": 6,
+            "restaurant": 1,
+            "ferry": 3,
+            "hotel": 2,
+            "cafe": 6
+        }
+    ],
+    [
+        "2021-09",
+        {
+            "total": 46,
+            "living room": 5,
+            "work": 37,
+            "cafe": 4
+        }
+    ],
+    [
+        "2022-07",
+        {
+            "total": 46,
+            "work": 26,
+            "living room": 6,
+            "interview": 1,
+            "visit": 1,
+            "cafe": 4,
+            "hotel": 7,
+            "ferry": 1
+        }
+    ],
+    [
+        "2020-03",
+        {
+            "total": 45,
+            "home": 43,
+            "school": 2
+        }
+    ],
+    [
+        "2020-01",
+        {
+            "total": 44,
+            "diner": 6,
+            "home": 33,
+            "cinema": 1,
+            "visit": 4
+        }
+    ],
+    [
+        "2019-12",
+        {
+            "total": 43,
+            "school": 21,
+            "radio": 2,
+            "home": 18,
+            "visit": 1,
+            "cinema": 1
+        }
+    ],
+    [
+        "2022-01",
+        {
+            "total": 43,
+            "visit": 2,
+            "office": 32,
+            "asus": 1,
+            "living room": 3,
+            "work": 5
+        }
+    ],
+    [
+        "2020-05",
+        {
+            "total": 41,
+            "living room": 21,
+            "office": 20
+        }
+    ],
+    [
+        "2019-03",
+        {
+            "total": 37,
+            "work": 9,
+            "home": 24,
+            "diner": 2,
+            "school": 1,
+            "visit": 1
+        }
+    ],
+    [
+        "2020-04",
+        {
+            "total": 37,
+            "home": 26,
+            "living room": 6,
+            "office": 5
+        }
+    ],
+    [
+        "2021-01",
+        {
+            "total": 35,
+            "visit": 3,
+            "living room": 25,
+            "tur": 1,
+            "ingunn": 4,
+            "office": 2
+        }
+    ],
+    [
+        "2019-09",
+        {
+            "total": 32,
+            "visit": 1,
+            "home": 8,
+            "school": 19,
+            "diner": 1,
+            "radio": 1,
+            "cinema": 2
+        }
+    ],
+    [
+        "2021-02",
+        {
+            "total": 28,
+            "living room": 17,
+            "office": 4,
+            "shrink": 1,
+            "ingunn": 3,
+            "r\u00f8ldal": 3
+        }
+    ],
+    [
+        "2022-02",
+        {
+            "total": 28,
+            "office": 3,
+            "work": 17,
+            "living room": 4,
+            "cafe": 3,
+            "hotel": 1
+        }
+    ],
+    [
+        "2019-02",
+        {
+            "total": 26,
+            "work": 13,
+            "school": 2,
+            "visit": 7,
+            "home": 3,
+            "diner": 1
+        }
+    ],
+    [
+        "2020-08",
+        {
+            "total": 25,
+            "visit": 11,
+            "cafe": 5,
+            "home": 2,
+            "living room": 3,
+            "office": 4
+        }
+    ],
+    [
+        "2019-05",
+        {
+            "total": 24,
+            "home": 7,
+            "work": 15,
+            "diner": 2
+        }
+    ],
+    [
+        "2020-10",
+        {
+            "total": 23,
+            "office": 5,
+            "visit": 12,
+            "cafe": 2,
+            "living room": 4
+        }
+    ],
+    [
+        "2020-12",
+        {
+            "total": 23,
+            "living room": 2,
+            "office": 5,
+            "exit": 1,
+            "ingunn": 4,
+            "cafe": 2,
+            "visit": 8,
+            "diner": 1
+        }
+    ],
+    [
+        "2019-01",
+        {
+            "total": 22,
+            "work": 12,
+            "home": 2,
+            "school": 8
+        }
+    ],
+    [
+        "2019-08",
+        {
+            "total": 21,
+            "diner": 7,
+            "home": 6,
+            "school": 8
+        }
+    ],
+    [
+        "2020-09",
+        {
+            "total": 20,
+            "visit": 5,
+            "cafe": 5,
+            "living room": 10
+        }
+    ],
+    [
+        "2019-06",
+        {
+            "total": 18,
+            "work": 10,
+            "diner": 5,
+            "visit": 2,
+            "cinema": 1
+        }
+    ],
+    [
+        "2019-07",
+        {
+            "total": 18,
+            "home": 13,
+            "work": 2,
+            "diner": 2,
+            "visit": 1
+        }
+    ],
+    [
+        "2020-11",
+        {
+            "total": 17,
+            "living room": 13,
+            "office": 2,
+            "visit": 2
+        }
+    ],
+    [
+        "2021-07",
+        {
+            "total": 13,
+            "cafe": 1,
+            "ingunn": 2,
+            "office": 2,
+            "visit": 8
+        }
+    ],
+    [
+        "2021-05",
+        {
+            "total": 11,
+            "living room": 3,
+            "office": 2,
+            "hike": 1,
+            "visit": 5
+        }
+    ],
+    [
+        "2021-03",
+        {
+            "total": 9,
+            "living room": 8,
+            "office": 1
+        }
+    ],
+    [
+        "2021-04",
+        {
+            "total": 9,
+            "ingunn": 3,
+            "office": 4,
+            "living room": 2
+        }
+    ],
+    [
+        "2020-06",
+        {
+            "total": 8,
+            "living room": 4,
+            "office": 1,
+            "cafe": 1,
+            "visit": 2
+        }
+    ],
+    [
+        "2020-07",
+        {
+            "total": 7,
+            "vacation": 4,
+            "visit": 3
+        }
+    ],
+    [
+        "2021-06",
+        {
+            "total": 5,
+            "living room": 3,
+            "visit": 1,
+            "vacation": 1
+        }
+    ]
+]
