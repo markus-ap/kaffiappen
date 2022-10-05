@@ -1,0 +1,2 @@
+# kaffiappen
+Statistikk for kaffidrikking
